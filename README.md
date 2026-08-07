@@ -11,7 +11,7 @@
   <a href="mailto:02abhaykumarr@gmail.com"><img src="https://img.shields.io/badge/Email-4F8EF7?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhay-kumar-283a25224"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ABHAYKUMAR0208"><img src="https://img.shields.io/badge/GitHub_Personal-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Abhay-GIT02"><img src="https://img.shields.io/badge/GitHub_Work-333333?style=flat-square&logo=github&logoColor=white" /></a>
+  <!-- <a href="https://github.com/Abhay-GIT02"><img src="https://img.shields.io/badge/GitHub_Work-333333?style=flat-square&logo=github&logoColor=white" /></a> -->
 </p>
 
 ---
