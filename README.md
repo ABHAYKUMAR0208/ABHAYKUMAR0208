@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abhay+Kumar+%F0%9F%91%8B;AI+Engineer;Building+LLM+apps%2C+RAG+pipelines+%26+voice+agents" alt="Typing SVG" />
 </h1>
 
+
 <p align="center">
   AI Engineer @ <b>GIT Software Technologies Limited</b> · Dehradun, India<br/>
   Building LLM-based applications, RAG pipelines, and voice-enabled agents — integrated into MERN &amp; Angular apps
