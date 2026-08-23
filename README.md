@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/RAG-4F8EF7?style=flat-square" />
   <img src="https://img.shields.io/badge/AI_Agents-4F8EF7?style=flat-square" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-4F8EF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/ElevenLabs_STT/TTS-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/ElevenLabs_STT--TTS-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/PG_Vector-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
@@ -76,7 +76,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ABHAYKUMAR0208&show_icons=true&title_color=4F8EF7&text_color=c9d1d9&icon_color=4F8EF7&bg_color=0D1117&border_color=30363d&hide_border=false&count_private=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYKUMAR0208&title_color=4F8EF7&text_color=c9d1d9&bg_color=0D1117&border_color=30363d&hide_border=false&layout=compact&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYKUMAR0208&title_color=4F8EF7&text_color=c9d1d9&bg_color=0D1117&border_color=30363d&hide_border=false&layout=compact&langs_count=8" width="49%" />
 
 <img src="https://streak-stats.demolab.com?user=ABHAYKUMAR0208&background=0D1117&border=30363d&ring=4F8EF7&fire=4F8EF7&currStreakLabel=4F8EF7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="60%" />
 
